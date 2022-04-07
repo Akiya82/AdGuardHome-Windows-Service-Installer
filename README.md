@@ -1,4 +1,4 @@
-# AdGuard Home - Windows service installer
+# AdGuardHome - Windows service installer
 This solution works thanks to the [nssm](https://nssm.cc/) utility and registers AdGuard Home as a service in Windows.
 
 ### Minimum System Requirements:
